@@ -1,0 +1,1 @@
+This code demonstrates a common error in Swift: passing an argument of the wrong type to a function. The `calculateArea` function expects two `Double` values, but the call to the function provides a `String` value as the second argument. This will cause a compile-time error.
